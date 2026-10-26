@@ -1,0 +1,11 @@
+# Identifiants locaux (ne jamais publier)
+config/db.php
+
+# Fichiers uploadés par les admins (cours, vidéos)
+uploads/
+
+# Système / éditeur
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
